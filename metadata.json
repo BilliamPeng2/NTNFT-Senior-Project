@@ -1,0 +1,27 @@
+{
+  "name": "Yale ID",
+  "description": "This is a certified ID of a Yale student.",
+  "image": "ipfs://Qma7F6DAK6n8KGSZg52FtGBjovZxP9oWyqXmwFhDxyTViR",
+  "attributes": [
+    {
+      "trait_type" : "Name",
+      "value" : "Handsome Dan"
+    },
+    {
+      "trait_type" : "Birthday",
+      "value" : "05/05/2005"
+    },
+    {
+      "trait_type" : "Expiration",
+      "value" : "05/05/2022"
+    },
+    {
+      "trait_type" : "UPI",
+      "value" : "12345678"
+    },
+    {
+      "trait_type" : "SID",
+      "value" : "12345678"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ The contracts are .sol files in the contracts folder.
 The scripts are .js files in the scripts folder.
 hardhat.config.js contains all the different network configurations
 
-## Installation
+## Installation Guide
 To install hardhat, run
 ```bash
 npm install --save-dev hardhat

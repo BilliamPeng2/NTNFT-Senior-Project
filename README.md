@@ -21,7 +21,7 @@ We use the Open Zeppelin ERC-721 contracts. To get them, run
 npm install @openzeppelin/contracts
 ```
 
-To run a script, replace the <address> with the actual contract or wallet addresses and run
+To run a script, replace the placeholder address with the actual contract or wallet addresses and run
 ```bash
 npx hardhat run scripts/file_path --network matic_testnet
 ```
